@@ -44,8 +44,8 @@ form {
   padding: 20px;
   margin: 150px auto;
   justify-content: space-between;
-  background-color: rgba(255, 68, 0, 0.507);
-  border: 2px solid orangered;
+  background-color: rgba(72, 255, 0, 0.507);
+  border: 2px solid rgb(0, 255, 110);
   border-radius: 5%;
 }
 
@@ -55,6 +55,6 @@ button:hover {
 }
 
 .form2 {
-  background-color: rgba(0, 89, 255, 0.507);
-  border: 2px solid rgb(0, 89, 255);
+  background-color: rgba(0, 85, 255, 0.507);
+  border: 2px solid rgb(0, 183, 255);
 }
